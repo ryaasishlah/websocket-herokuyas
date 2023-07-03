@@ -4,8 +4,8 @@ import (
 	"log"
 
 	"github.com/aiteung/musik"
-	"github.com/rofinafiin/websocket-heroku/module"
-	"github.com/rofinafiin/websocket-heroku/url"
+	"github.com/ryaasishlah/websocket-herokuyas/module"
+	"github.com/ryaasishlah/websocket-herokuyas/url"
 
 	"github.com/gofiber/fiber/v2"
 )

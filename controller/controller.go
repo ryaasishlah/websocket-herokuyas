@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/rofinafiin/websocket-heroku/module"
+	"github.com/ryaasishlah/websocket-herokuyas/module"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/websocket/v2"
